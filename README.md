@@ -27,6 +27,8 @@ The dashboard highlights:
 - Benefit type cost comparison
 - Claim approval distribution
 - Monthly claim trends
+
+![Dashboard](employee_claims_dashboard.png)
  
 ## Repository Structure
 dataset/ – Dummy employee claims dataset  
